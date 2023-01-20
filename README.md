@@ -14,7 +14,7 @@ There are no requirement of installing any application to run this.
 
 ## Usage
 
-To access the website please visit 
+To access the website please visit https://renjithkumar993.github.io/Refactoring--Horiseon-Marketing-Agency-Website/
 
 The website will be the exact replica of the screenshot below
  ![alt text](./assets/images/01-html-css-git-homework-demo.png)
